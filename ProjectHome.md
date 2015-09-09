@@ -1,0 +1,1 @@
+gpwOmen appication supports stock market prediction. It uses neural networks to "look in future" and help to build better  portfolio.
